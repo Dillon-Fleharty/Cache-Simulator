@@ -26,10 +26,10 @@ Additional Documentation
 Classes & Dependencies:      
 
 •	``Classes``:     
-   Entry         		
-   CacheMoney 
+•  Entry               		
+•  CacheMoney       
 
-•``Dependencies``.               
+•``Dependencies``               
 •	iostream      
 •	fstream      
 •	string     
