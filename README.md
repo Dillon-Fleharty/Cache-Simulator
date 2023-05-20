@@ -24,11 +24,11 @@ This command will run the cache simulator with 1024 entries, 4-way associativity
 Additional Documentation 
 
 Classes & Dependencies: 
-•	``Classes``:
-o	Entry		
-o	CacheMoney 
+•	``Classes``:     
+   Entry		
+   CacheMoney 
 
-•``Dependencies``
+•``Dependencies``         
 o	iostream
 o	fstream
 o	string
