@@ -29,11 +29,11 @@ Classes & Dependencies:
    Entry         		
    CacheMoney 
 
-•``Dependencies``         
-o	iostream
-o	fstream
-o	string
-o	vector
+•``Dependencies``.               
+o	iostream.      
+o	fstream.      
+o	string.     
+o	vector.      
 
 Function / Methods implemented in program:
 
