@@ -30,10 +30,10 @@ Classes & Dependencies:
    CacheMoney 
 
 •``Dependencies``.               
-o	iostream.      
-o	fstream.      
-o	string.     
-o	vector.      
+•	iostream      
+•	fstream      
+•	string     
+•	vector      
 
 Function / Methods implemented in program:
 
