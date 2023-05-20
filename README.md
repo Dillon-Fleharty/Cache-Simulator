@@ -23,9 +23,10 @@ This command will run the cache simulator with 1024 entries, 4-way associativity
 
 Additional Documentation 
 
-Classes & Dependencies: 
+Classes & Dependencies:      
+
 •	``Classes``:     
-   Entry		
+   Entry    		
    CacheMoney 
 
 •``Dependencies``         
