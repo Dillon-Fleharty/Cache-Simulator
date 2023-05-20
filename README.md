@@ -27,7 +27,7 @@ Classes & Dependencies:
 
 •	``Classes``           
 •  Entry           
-•  CacheMoney.    
+•  CacheMoney    
 
 •``Dependencies``               
 •	iostream      
