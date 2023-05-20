@@ -25,8 +25,8 @@ Additional Documentation
 
 Classes & Dependencies:      
 
-•	``Classes``:     
-•  Entry               		
+•	``Classes``           
+•  Entry.                     		
 •  CacheMoney       
 
 •``Dependencies``               
