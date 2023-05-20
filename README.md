@@ -26,8 +26,8 @@ Additional Documentation
 Classes & Dependencies:      
 
 •	``Classes``           
-•  Entry.                               		
-•  CacheMoney       
+•  Entry           
+•  CacheMoney.    
 
 •``Dependencies``               
 •	iostream      
