@@ -45,4 +45,4 @@ The main function will parse the command line arguments for the number of entrie
 2.	 ``bool hit_or_miss(size_t address)``
 
 This method tries to access the memory address located in the cache and returns ‘true’ (HIT) if the address is found or false if it is not found.  If the Method returns ‘false’ (MISS) then it will update the cache by replacing the least recently used (LRU) entry with the new address. 
-![image](https://github.com/Dillon-Fleharty/Cache-Simulator/assets/93058579/cf4226d3-0d7f-4d05-b48f-199702069f6b)
+
